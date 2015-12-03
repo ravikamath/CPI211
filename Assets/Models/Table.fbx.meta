@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ea606286e3af70141b40a449d03536ec
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Cylinder
+    100004: Items
+    100006: Left Front Leg
+    100008: Left Rear Leg
+    100010: Pyramid
+    100012: Right Back Leg
+    100014: Right Front Leg
+    100016: //RootNode
+    100018: Table
+    100020: Teapot
+    100022: Top
+    100024: Torus
+    400000: Ball
+    400002: Cylinder
+    400004: Items
+    400006: Left Front Leg
+    400008: Left Rear Leg
+    400010: Pyramid
+    400012: Right Back Leg
+    400014: Right Front Leg
+    400016: //RootNode
+    400018: Table
+    400020: Teapot
+    400022: Top
+    400024: Torus
+    2300000: Ball
+    2300002: Cylinder
+    2300004: Left Front Leg
+    2300006: Left Rear Leg
+    2300008: Pyramid
+    2300010: Right Back Leg
+    2300012: Right Front Leg
+    2300014: Teapot
+    2300016: Top
+    2300018: Torus
+    3300000: Ball
+    3300002: Cylinder
+    3300004: Left Front Leg
+    3300006: Left Rear Leg
+    3300008: Pyramid
+    3300010: Right Back Leg
+    3300012: Right Front Leg
+    3300014: Teapot
+    3300016: Top
+    3300018: Torus
+    4300000: Top
+    4300002: Left Rear Leg
+    4300004: Left Front Leg
+    4300006: Right Front Leg
+    4300008: Right Back Leg
+    4300010: Pyramid
+    4300012: Torus
+    4300014: Teapot
+    4300016: Ball
+    4300018: Cylinder
+    6400000: Ball
+    6400002: Cylinder
+    6400004: Left Front Leg
+    6400006: Left Rear Leg
+    6400008: Pyramid
+    6400010: Right Back Leg
+    6400012: Right Front Leg
+    6400014: Teapot
+    6400016: Top
+    6400018: Torus
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
